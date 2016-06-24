@@ -1,0 +1,14 @@
+layout_spectrum: 0.9414087606128305
+typography_spectrum: 0.6927637942135334
+color:
+  brandStrength: 0.5238912147469819
+  lightness: 0.7470826609060168
+  saturation: 0.8218557320069522
+  rhythmicContrast: 0.2266167534980923
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: severe breakup
